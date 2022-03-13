@@ -342,3 +342,4 @@ sdkconfig.ad.intl.xiaomi.com
 # Android TV (including Nvidia Shield TV)
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
+www.pokemon.com
